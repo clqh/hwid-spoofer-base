@@ -191,23 +191,23 @@ void spoofpcname() {
 
 
 void cleanvalorant() {
-    cout << "valorant traces cleared spoofed" << endl;
+    cout << "valorant traces cleared" << endl;
 }
 
 void cleanfortnite() {
-    cout << "fortnite traces cleared spoofed" << endl;
+    cout << "fortnite traces cleared" << endl;
 }
 
 void cleanrust() {
-    cout << "rust traces cleared spoofed" << endl;
+    cout << "rust traces cleared" << endl;
 }
 
 void cleanr6s() {
-    cout << "rainbow six siege traces cleared spoofed" << endl;
+    cout << "rainbow six siege traces cleared" << endl;
 }
 
 void checkserials() {
-    cout << "windows activated" << endl;
+    cout << "checking serials" << endl;
 }
 
 void activatewindows() {
